@@ -1,3 +1,5 @@
+# libcamera-native-apps
+
 This repo includes native C++ applications implemented using libcamera library, on raspberry pi.
 
 First, follow the steps described in the link below to make sure that libcamera is built and installed.
